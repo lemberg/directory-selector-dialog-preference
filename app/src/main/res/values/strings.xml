@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Directory Selector Demo</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="dir_location">Directory</string>
+    <string name="change_dir">Change directory</string>
+</resources>
